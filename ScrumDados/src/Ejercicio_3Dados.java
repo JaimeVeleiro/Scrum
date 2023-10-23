@@ -1,5 +1,6 @@
 // Alejandro ha estado aqui
 //Jaime ha estado aqui
+//Jaime bobo juega al bdo
 public class Ejercicio_3Dados {
     static final String GANA1= "Ha ganado el Jugador 1, ENHORABUENA!!";
     static final String GANA2 = "Ha ganado el Jugador 2, ENHORABUENA!!";
